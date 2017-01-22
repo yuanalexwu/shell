@@ -1,0 +1,2 @@
+# shell
+  learn bash
